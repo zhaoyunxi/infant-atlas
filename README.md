@@ -1,1 +1,1 @@
-# infant_atlas
+# infant-atlas
